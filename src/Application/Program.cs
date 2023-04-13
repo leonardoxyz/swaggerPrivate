@@ -13,7 +13,7 @@ builder.Services.AddSwaggerGen(c => {
     {
         Title = "JWEB - API",
         Version = "v1",
-        Description = "JWEB PROJECT",
+        Description = "JWEB - PROJECT",
         Contact = new OpenApiContact
         {
             Name = "Santos, Leonardo",
